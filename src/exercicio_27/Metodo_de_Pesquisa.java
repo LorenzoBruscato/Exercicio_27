@@ -8,9 +8,6 @@ import javax.swing.JOptionPane;
  */
 public class Metodo_de_Pesquisa {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int i, flag;
         int numElementos = Integer.parseInt(JOptionPane.showInputDialog("Digite o número de pessoas a ser cadastrado"));
